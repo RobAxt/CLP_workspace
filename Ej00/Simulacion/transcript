@@ -1,0 +1,104 @@
+# Loading project neg
+# Compile of neg.vhd was successful.
+# Compile of neg_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.neg_tb
+# vsim work.neg_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.neg_tb(neg_tb_arq)
+# Loading work.neg(neg_arq)
+add wave -position insertpoint  \
+sim:/neg_tb/a_tb \
+sim:/neg_tb/b_tb
+run
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ps  Iteration: 0  Process: /neg_tb/line__25 File: /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd
+# Fatal error in Architecture neg_tb_arq at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd line 25
+# 
+# HDL call sequence:
+# Stopped at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd 25 Architecture neg_tb_arq
+# 
+restart
+run
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ps  Iteration: 0  Process: /neg_tb/line__25 File: /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd
+# Fatal error in Architecture neg_tb_arq at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd line 25
+# 
+# HDL call sequence:
+# Stopped at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd 25 Architecture neg_tb_arq
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd 25 Architecture neg_tb_arq
+# 
+# Can't move the Now cursor.
+run -all
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg.vhd 18 Architecture neg_arq
+# 
+run -all
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd 25 Architecture neg_tb_arq
+# 
+restart
+run
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ps  Iteration: 0  Process: /neg_tb/line__25 File: /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd
+# Fatal error in Architecture neg_tb_arq at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd line 25
+# 
+# HDL call sequence:
+# Stopped at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd 25 Architecture neg_tb_arq
+# 
+run -all
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd 25 Architecture neg_tb_arq
+# 
+restart
+run -all
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ps  Iteration: 0  Process: /neg_tb/line__25 File: /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd
+# Fatal error in Architecture neg_tb_arq at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd line 25
+# 
+# HDL call sequence:
+# Stopped at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd 25 Architecture neg_tb_arq
+# 
+# Compile of neg_tb.vhd was successful.
+run -all
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd 25 Architecture neg_tb_arq
+# 
+run -all
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/raxt/VHDL_Workspace/CLP_workspace/Ej00/Fuente/neg_tb.vhd 25 Architecture neg_tb_arq
+# 
+ dddddddddd
+# invalid command name "dddddddddd"
+# Compile of neg.vhd was successful.
+# Compile of neg_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Compile of neg.vhd was successful.
+# Compile of neg_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.neg_tb(neg_tb_arq)
+# Loading work.neg(neg_arq)
+run -all
+run -all
+run -all
+run
+run
+run
+# Compile of neg.vhd was successful.
+# Compile of neg_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.neg_tb(neg_tb_arq)
+# Loading work.neg(neg_arq)

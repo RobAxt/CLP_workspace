@@ -2,7 +2,7 @@
 library IEEE;
 use IEEE.std_logic_1164.all;
 
--- Declaración de Entidad
+-- Declaracion de Entidad
 entity neg is
 	port(
 		a_i: in std_logic;

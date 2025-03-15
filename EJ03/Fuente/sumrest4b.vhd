@@ -7,7 +7,7 @@ entity sumrest4b is
   port(
     a_i:  in  std_logic_vector(3 downto 0);
     b_i:  in  std_logic_vector(3 downto 0);
-    sr_i: in  std_logic;  -- sr_i = 1 resta
+    sr_i: in  std_logic;  -- sr_i = 1 resta, sr_i = 0 suma
     s_o:  out std_logic_vector(3 downto 0);
     co_o: out std_logic
   );
@@ -30,7 +30,8 @@ architecture sumrest4b_arq of sumrest4b is
   
 begin
   
-  b_mod <= b_i xor std_logic_vector'(3 downto 0 => sr_i);
+--b_mod <= b_i xor std_logic_vector'(3 downto 0 => sr_i);
+  b_mod <= b_i xor (sr_i & sr_i & sr_i & sr_i);
   
   sum4b_inst : sum4b
     port map (

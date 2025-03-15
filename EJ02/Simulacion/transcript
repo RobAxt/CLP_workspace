@@ -1,0 +1,72 @@
+# Loading project sum4b
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project sumrest4b
+# Compile of sum1b.vhd was successful.
+# Compile of sum4b.vhd failed with 1 errors.
+# Compile of sum4b_tb.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of sum1b.vhd was successful.
+# Compile of sum4b.vhd failed with 1 errors.
+# Compile of sum4b_tb.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of sum1b.vhd was successful.
+# Compile of sum4b.vhd failed with 1 errors.
+# Compile of sum4b_tb.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project sumrest4b
+# Compile of sum1b.vhd was successful.
+# Compile of sum4b.vhd was successful.
+# Compile of sum4b_tb.vhd was successful.
+# Compile of sumrest4b.vhd failed with 1 errors.
+# 4 compiles, 1 failed with 1 error. 
+# Compile of sum1b.vhd was successful.
+# Compile of sum4b.vhd was successful.
+# Compile of sum4b_tb.vhd was successful.
+# Compile of sumrest4b.vhd failed with 1 errors.
+# 4 compiles, 1 failed with 1 error. 
+# Compile of sumrest4b.vhd was successful.
+vsim -novopt work.sumrest4b_tb
+# vsim -novopt work.sumrest4b_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.sumrest4b_tb(sumrest4b_arq_tb)
+# Loading work.sumrest4b(sumrest4b_arq)
+# Loading work.sum4b(sum4b_arq)
+# Loading work.sum1b(sum1b_arq)
+add wave -position insertpoint sim:/sumrest4b_tb/DUT/*
+run -all
+run
+add wave -position insertpoint sim:/sumrest4b_tb/DUT/sum4b_inst/*
+restart
+run -all
+run -all
+run
+# Compile of sum1b.vhd was successful.
+# Compile of sum4b.vhd was successful.
+# Compile of sum4b_tb.vhd was successful.
+# Compile of sumrest4b.vhd was successful.
+# 4 compiles, 0 failed with no errors. 
+vsim -novopt work.sumrest4b_tb
+# vsim -novopt work.sumrest4b_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.sumrest4b_tb(sumrest4b_arq_tb)
+# Loading work.sumrest4b(sumrest4b_arq)
+# Loading work.sum4b(sum4b_arq)
+# Loading work.sum1b(sum1b_arq)
+add wave -position insertpoint sim:/sumrest4b_tb/*
+run -all
+run -all
+run
+add wave -position insertpoint sim:/sumrest4b_tb/DUT/sum4b_inst/line__33/*
+# (vish-4014) No objects found matching '/sumrest4b_tb/DUT/sum4b_inst/line__33/*'.
+add wave -position insertpoint sim:/sumrest4b_tb/DUT/sum4b_inst/line__32/*
+# (vish-4014) No objects found matching '/sumrest4b_tb/DUT/sum4b_inst/line__32/*'.
+add wave -position insertpoint sim:/sumrest4b_tb/DUT/line__33/*
+# (vish-4014) No objects found matching '/sumrest4b_tb/DUT/line__33/*'.
+add wave -position insertpoint sim:/sumrest4b_tb/line__31/*
+# (vish-4014) No objects found matching '/sumrest4b_tb/line__31/*'.
+quit

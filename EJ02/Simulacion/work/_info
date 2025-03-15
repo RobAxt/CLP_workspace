@@ -1,0 +1,110 @@
+m255
+K3
+13
+cModel Technology
+d/home/raxt/VHDL_Workspace/CLP_workspace/Ej01/Simulacion
+Esum1b
+Z0 w1741461334
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 d/home/raxt/VHDL_Workspace/CLP_workspace/EJ02/Simulacion
+Z4 8/home/raxt/VHDL_Workspace/CLP_workspace/EJ02/Fuente/sum1b.vhd
+Z5 F/home/raxt/VHDL_Workspace/CLP_workspace/EJ02/Fuente/sum1b.vhd
+l0
+L6
+VPnK4m<`[PEb]6>Z6:cbQc1
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1742050770.251758
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/VHDL_Workspace/CLP_workspace/EJ02/Fuente/sum1b.vhd|
+Z9 !s107 /home/raxt/VHDL_Workspace/CLP_workspace/EJ02/Fuente/sum1b.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 `9M=mD7nk:MMHz7>2b2SU2
+!i10b 1
+Asum1b_arq
+R1
+R2
+DEx4 work 5 sum1b 0 22 PnK4m<`[PEb]6>Z6:cbQc1
+l19
+L17
+VN]e1bR7=oR5LBl@IboRg?3
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 _hhZ:zH63R]6QGO5;1Ijb2
+!i10b 1
+Esum4b
+Z12 w1742049232
+R1
+R2
+R3
+Z13 8/home/raxt/VHDL_Workspace/CLP_workspace/EJ02/Fuente/sum4b.vhd
+Z14 F/home/raxt/VHDL_Workspace/CLP_workspace/EJ02/Fuente/sum4b.vhd
+l0
+L6
+V=c:V42K<2mU8g2ijY^2lD1
+R6
+32
+Z15 !s108 1742050770.293827
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/VHDL_Workspace/CLP_workspace/EJ02/Fuente/sum4b.vhd|
+Z17 !s107 /home/raxt/VHDL_Workspace/CLP_workspace/EJ02/Fuente/sum4b.vhd|
+R10
+R11
+!s100 ]U_be;@a>CSmA:;L8V0UF3
+!i10b 1
+Asum4b_arq
+R1
+R2
+DEx4 work 5 sum4b 0 22 =c:V42K<2mU8g2ijY^2lD1
+l31
+L17
+Vc@KfnD;Y`B7H`CKUjU_]V0
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 TjzPfJ9=_BI0Vfo19JkBX2
+!i10b 1
+Esum4b_tb
+Z18 w1742050455
+R1
+R2
+R3
+Z19 8/home/raxt/VHDL_Workspace/CLP_workspace/EJ02/Fuente/sum4b_tb.vhd
+Z20 F/home/raxt/VHDL_Workspace/CLP_workspace/EJ02/Fuente/sum4b_tb.vhd
+l0
+L6
+Vmo`S9[kfaT7`KTcQjT`S_2
+!s100 8Y;I`20lJbZnjWLPAl7Z_0
+R6
+32
+!i10b 1
+Z21 !s108 1742050770.316714
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/VHDL_Workspace/CLP_workspace/EJ02/Fuente/sum4b_tb.vhd|
+Z23 !s107 /home/raxt/VHDL_Workspace/CLP_workspace/EJ02/Fuente/sum4b_tb.vhd|
+R10
+R11
+Asum4b_arq_tb
+R1
+R2
+DEx4 work 8 sum4b_tb 0 22 mo`S9[kfaT7`KTcQjT`S_2
+l29
+L10
+VfFS`Z00iz[4l635OSGIUk2
+!s100 hk@?iRVloP7Y9F]QjdlOD0
+R6
+32
+!i10b 1
+R21
+R22
+R23
+R10
+R11

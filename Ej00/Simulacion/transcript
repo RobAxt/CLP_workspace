@@ -98,3 +98,5 @@ run
 restart
 # Loading work.sum1b_tb(sum1b_tb_arq)
 run
+quit -sim
+quit

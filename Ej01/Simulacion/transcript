@@ -1,0 +1,19 @@
+# Loading project sum1b
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project sum4b
+# Compile of sum1b.vhd was successful.
+# Compile of sum4b.vhd was successful.
+# Compile of sum4b_tb.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim work.sum4b_tb
+# vsim work.sum4b_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.sum4b_tb(sum4b_arq_tb)
+# Loading work.sum4b(sum4b_arq)
+# Loading work.sum1b(sum1b_arq)
+add wave -position insertpoint sim:/sum4b_tb/DUT/*
+run -all
+run
+quit

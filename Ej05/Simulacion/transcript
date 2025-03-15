@@ -1,0 +1,72 @@
+# Loading project ffd
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project shift_reg
+# Compile of ffd.vhd was successful.
+# Compile of shift_reg.vhd failed with 1 errors.
+# Compile of shift_reg_tb.vhd failed with 1 errors.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of shift_reg.vhd failed with 1 errors.
+# Compile of shift_reg.vhd failed with 1 errors.
+# Compile of ffd.vhd was successful.
+# Compile of shift_reg.vhd failed with 1 errors.
+# Compile of shift_reg_tb.vhd failed with 1 errors.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of ffd.vhd was successful.
+# Compile of shift_reg.vhd was successful.
+# Compile of shift_reg_tb.vhd failed with 1 errors.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of ffd.vhd was successful.
+# Compile of shift_reg.vhd was successful.
+# Compile of shift_reg_tb.vhd failed with 1 errors.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of ffd.vhd was successful.
+# Compile of shift_reg.vhd was successful.
+# Compile of shift_reg_tb.vhd failed with 1 errors.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of ffd.vhd was successful.
+# Compile of shift_reg.vhd was successful.
+# Compile of shift_reg_tb.vhd failed with 1 errors.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of ffd.vhd was successful.
+# Compile of shift_reg.vhd was successful.
+# Compile of shift_reg_tb.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.shift_reg_tb
+# vsim -voptargs=+acc work.shift_reg_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.shift_reg_tb(shift_reg_arq_tb)
+# Loading work.shift_reg(shift_reg_arq)
+# Loading work.ffd(ffd_arq)
+add wave -position insertpoint sim:/shift_reg_tb/DUT/*
+run -all
+# Break key hit 
+# Simulation stop requested.
+restart
+run
+run
+restart
+restart
+run
+run
+# Compile of ffd.vhd was successful.
+# Compile of shift_reg.vhd was successful.
+# Compile of shift_reg_tb.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.shift_reg_tb(shift_reg_arq_tb)
+# Loading work.shift_reg(shift_reg_arq)
+# Loading work.ffd(ffd_arq)
+run
+run
+# Compile of ffd.vhd was successful.
+# Compile of shift_reg.vhd was successful.
+# Compile of shift_reg_tb.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.shift_reg_tb(shift_reg_arq_tb)
+# Loading work.shift_reg(shift_reg_arq)
+# Loading work.ffd(ffd_arq)
+run
+run

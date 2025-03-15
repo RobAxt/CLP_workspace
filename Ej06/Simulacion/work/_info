@@ -1,0 +1,110 @@
+m255
+K3
+13
+cModel Technology
+d/home/raxt/VHDL_Workspace/CLP_workspace/Ej05/Simulacion
+Effd
+Z0 w1742063785
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 d/home/raxt/VHDL_Workspace/CLP_workspace/Ej06/Simulacion
+Z4 8/home/raxt/VHDL_Workspace/CLP_workspace/Ej06/Fuente/ffd.vhd
+Z5 F/home/raxt/VHDL_Workspace/CLP_workspace/Ej06/Fuente/ffd.vhd
+l0
+L6
+VHnnJObk4>ONIFcN^cIgT42
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1742068065.372047
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/VHDL_Workspace/CLP_workspace/Ej06/Fuente/ffd.vhd|
+Z9 !s107 /home/raxt/VHDL_Workspace/CLP_workspace/Ej06/Fuente/ffd.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 Ya45H:W4Lc<F<Xocknh9e1
+!i10b 1
+Affd_arq
+R1
+R2
+DEx4 work 3 ffd 0 22 HnnJObk4>ONIFcN^cIgT42
+l19
+L17
+VkAB?K44dRg]e6KBn[lA?`3
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 S>RlOoP^joSZjjmjSWd9=3
+!i10b 1
+Eshift_reg
+Z12 w1742067125
+R1
+R2
+R3
+Z13 8/home/raxt/VHDL_Workspace/CLP_workspace/Ej06/Fuente/shift_reg.vhd
+Z14 F/home/raxt/VHDL_Workspace/CLP_workspace/Ej06/Fuente/shift_reg.vhd
+l0
+L6
+V7>hHU5m<<f@I@Q>Sh=6>=3
+R6
+32
+Z15 !s108 1742068065.403016
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/VHDL_Workspace/CLP_workspace/Ej06/Fuente/shift_reg.vhd|
+Z17 !s107 /home/raxt/VHDL_Workspace/CLP_workspace/Ej06/Fuente/shift_reg.vhd|
+R10
+R11
+!s100 =ggXRQmACX?G2coDYG@8>0
+!i10b 1
+Ashift_reg_arq
+R1
+R2
+DEx4 work 9 shift_reg 0 22 7>hHU5m<<f@I@Q>Sh=6>=3
+l31
+L17
+V<AN8Hdi8gekmE<jXl1Yhh1
+!s100 =X4a3`>]>7;T?dYTB>8oN3
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!i10b 1
+Eshift_reg_tb
+Z18 w1742068063
+R1
+R2
+R3
+Z19 8/home/raxt/VHDL_Workspace/CLP_workspace/Ej06/Fuente/shift_reg_tb.vhd
+Z20 F/home/raxt/VHDL_Workspace/CLP_workspace/Ej06/Fuente/shift_reg_tb.vhd
+l0
+L6
+V2PF9Jn8SkL>m38m6XLzk21
+!s100 IRHE]jR]EW8QE;_PAz0oI2
+R6
+32
+!i10b 1
+Z21 !s108 1742068065.434179
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/VHDL_Workspace/CLP_workspace/Ej06/Fuente/shift_reg_tb.vhd|
+Z23 !s107 /home/raxt/VHDL_Workspace/CLP_workspace/Ej06/Fuente/shift_reg_tb.vhd|
+R10
+R11
+Ashift_reg_arq_tb
+R1
+R2
+Z24 DEx4 work 12 shift_reg_tb 0 22 2PF9Jn8SkL>m38m6XLzk21
+l30
+L10
+VOohg3WThkJWHU4O<]V:b@1
+!s100 N<bj4>iGm3DhdT`i];R2U2
+R6
+32
+!i10b 1
+R21
+R22
+R23
+R10
+R11

@@ -6,4 +6,12 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling entity mux1b
 -- Compiling architecture mux1b_arq of mux1b
 
+} {} {}} /home/raxt/VHDL_Workspace/CLP_workspace/Ej04/Fuente/mux1b_tb.vhd {1 {vcom -work work -2002 -explicit /home/raxt/VHDL_Workspace/CLP_workspace/Ej04/Fuente/mux1b_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux1b_tb
+-- Compiling architecture mux1b_arq_tb of mux1b_tb
+
 } {} {}}

@@ -1,0 +1,33 @@
+# Loading project mux1b
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project ffd
+# Compile of ffd.vhd failed with 1 errors.
+# Compile of ffd_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors. 
+# Compile of ffd.vhd failed with 1 errors.
+# Compile of ffd_tb.vhd failed with 1 errors.
+# 2 compiles, 2 failed with 2 errors. 
+# Compile of ffd.vhd was successful.
+# Compile of ffd_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of ffd.vhd was successful.
+# Compile of ffd_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of ffd.vhd was successful.
+# Compile of ffd_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of ffd.vhd was successful.
+# Compile of ffd_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of ffd.vhd was successful.
+# Compile of ffd_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.ffd_tb
+# vsim -voptargs=+acc work.ffd_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ffd_tb(ffd_arq_tb)
+# Loading work.ffd(ffd_arq)
+add wave -position insertpoint sim:/ffd_tb/DUT/*
+run

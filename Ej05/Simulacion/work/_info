@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+d/home/raxt/VHDL_Workspace/CLP_workspace/Ej04/Simulacion
+Effd
+Z0 w1742063785
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 d/home/raxt/VHDL_Workspace/CLP_workspace/Ej05/Simulacion
+Z4 8/home/raxt/VHDL_Workspace/CLP_workspace/Ej05/Fuente/ffd.vhd
+Z5 F/home/raxt/VHDL_Workspace/CLP_workspace/Ej05/Fuente/ffd.vhd
+l0
+L6
+VHnnJObk4>ONIFcN^cIgT42
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1742063963.699203
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/VHDL_Workspace/CLP_workspace/Ej05/Fuente/ffd.vhd|
+Z9 !s107 /home/raxt/VHDL_Workspace/CLP_workspace/Ej05/Fuente/ffd.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 Ya45H:W4Lc<F<Xocknh9e1
+!i10b 1
+Affd_arq
+R1
+R2
+DEx4 work 3 ffd 0 22 HnnJObk4>ONIFcN^cIgT42
+l19
+L17
+VkAB?K44dRg]e6KBn[lA?`3
+!s100 S>RlOoP^joSZjjmjSWd9=3
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!i10b 1
+Effd_tb
+Z12 w1742063959
+R1
+R2
+R3
+Z13 8/home/raxt/VHDL_Workspace/CLP_workspace/Ej05/Fuente/ffd_tb.vhd
+Z14 F/home/raxt/VHDL_Workspace/CLP_workspace/Ej05/Fuente/ffd_tb.vhd
+l0
+L6
+VVT;:=E7_WZT?UdP0Nj^;60
+!s100 GTEhgcfAN@79=mkT^b5Sc0
+R6
+32
+!i10b 1
+Z15 !s108 1742063963.720960
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/VHDL_Workspace/CLP_workspace/Ej05/Fuente/ffd_tb.vhd|
+Z17 !s107 /home/raxt/VHDL_Workspace/CLP_workspace/Ej05/Fuente/ffd_tb.vhd|
+R10
+R11
+Affd_arq_tb
+R1
+R2
+DEx4 work 6 ffd_tb 0 22 VT;:=E7_WZT?UdP0Nj^;60
+l29
+L10
+VDgB9OlJYZ=FOK``FfAU7z0
+!s100 @49dYFC[hf:im4@NhEFG20
+R6
+32
+!i10b 1
+R15
+R16
+R17
+R10
+R11

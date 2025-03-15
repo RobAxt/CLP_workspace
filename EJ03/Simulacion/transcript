@@ -1,0 +1,44 @@
+# Loading project sumrest4b
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project mux1b
+# Compile of mux1b.vhd was successful.
+# Compile of mux1b_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of mux1b.vhd was successful.
+# Compile of mux1b_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.mux1b_tb
+# vsim -voptargs=+acc work.mux1b_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.mux1b_tb(mux1b_arq_tb)
+# Loading work.mux1b(mux1b_arq)
+add wave -position insertpoint sim:/mux1b_tb/*
+run -all
+# Break key hit 
+# Simulation stop requested.
+run
+restart
+add wave -position insertpoint sim:/mux1b_tb/*
+run
+# Break key hit 
+restart
+run -all
+# Break key hit 
+# Simulation stop requested.
+restart
+add wave -position insertpoint sim:/mux1b_tb/DUT/*
+run
+# Compile of mux1b.vhd was successful.
+# Compile of mux1b_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.mux1b_tb
+# vsim -voptargs=+acc work.mux1b_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.mux1b_tb(mux1b_arq_tb)
+# Loading work.mux1b(mux1b_arq)
+add wave -position insertpoint sim:/mux1b_tb/DUT/*
+run

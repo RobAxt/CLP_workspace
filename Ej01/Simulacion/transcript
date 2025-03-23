@@ -1,19 +1,161 @@
 # Loading project sum1b
 # reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
-# Loading project sum4b
-# Compile of sum1b.vhd was successful.
-# Compile of sum4b.vhd was successful.
-# Compile of sum4b_tb.vhd was successful.
+# Loading project count4b
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of reg.vhd was successful.
 # 3 compiles, 0 failed with no errors. 
-vsim work.sum4b_tb
-# vsim work.sum4b_tb 
+vsim -voptargs=+acc work.cont4b_tb
+# vsim -voptargs=+acc work.cont4b_tb 
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
-# Loading work.sum4b_tb(sum4b_arq_tb)
-# Loading work.sum4b(sum4b_arq)
-# Loading work.sum1b(sum1b_arq)
-add wave -position insertpoint sim:/sum4b_tb/DUT/*
-run -all
+# Loading ieee.numeric_std(body)
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.reg(reg_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /cont4b_tb/DUT/cuenta_o(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+add wave -position insertpoint sim:/cont4b_tb/*
 run
-quit
+# Break key hit 
+# Simulation stop requested.
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /cont4b_tb/DUT/cuenta_o(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run
+run -all
+# Break key hit 
+# Simulation stop requested.
+add wave -position insertpoint sim:/cont4b_tb/*
+run
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /cont4b_tb/DUT/cuenta_o(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+add wave -position insertpoint sim:/cont4b_tb/*
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /cont4b_tb/DUT/cuenta_o(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run
+quit -sim
+vsim -voptargs=+acc work.cont4b
+# vsim -voptargs=+acc work.cont4b 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.reg(reg_arq)
+run
+add wave -position insertpoint sim:/cont4b/*
+run
+restart
+run
+quit -sim
+vsim -voptargs=+acc work.cont4b_tb
+# vsim -voptargs=+acc work.cont4b_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.reg(reg_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /cont4b_tb/DUT/cuenta_o(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+add wave -position insertpoint sim:/cont4b_tb/*
+view -new wave
+# -new not supported on PE
+add wave -position insertpoint sim:/cont4b_tb/*
+run
+add wave -position insertpoint sim:/cont4b_tb/DUT/*
+run
+# Break key hit 
+# Break key hit 
+quit -sim
+# Project file /home/raxt/CESE_Workspace/CLP_workspace/Ej10/Simulacion/count4b.mpf is write protected, data cannot be saved.
+# Unable to save project.
+vsim -voptargs=+acc work.cont4b_tb
+# vsim -voptargs=+acc work.cont4b_tb 
+# ** Warning: (14) Failed to open "/home/raxt/CESE_Workspace/CLP_workspace/Ej10/Simulacion/count4b.mpf" specified by the MODELSIM environment variable.
+# ** Error: (vsim-7) Failed to open ini file "/home/raxt/CESE_Workspace/CLP_workspace/Ej10/Simulacion/count4b.mpf" in read mode.
+# No such file or directory. (errno = ENOENT)
+# ** Error: (vsim-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+# Project file /home/raxt/CESE_Workspace/CLP_workspace/Ej10/Simulacion/count4b.mpf is write protected, data cannot be saved.
+# Unable to save project.
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project count4b
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.cont4b_tb
+# vsim -voptargs=+acc work.cont4b_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.reg(reg_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /cont4b_tb/DUT/cuenta_o(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+add wave -position insertpoint sim:/cont4b_tb/DUT/*
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.reg(reg_arq)
+# ** Warning: (vsim-8683) Uninitialized out port /cont4b_tb/DUT/cuenta_o(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+quit -sim
+vsim -voptargs=+acc work.cont4b_tb
+# vsim -voptargs=+acc work.cont4b_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.reg(reg_arq)
+add wave -position insertpoint sim:/cont4b_tb/*
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.reg(reg_arq)
+run
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.reg(reg_arq)
+run
+restart
+# Compile of cont4b.vhd was successful.
+# Compile of cont4b_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.cont4b_tb(cont4b_tb_arq)
+# Loading work.cont4b(cont4b_arq)
+# Loading work.reg(reg_arq)
+run

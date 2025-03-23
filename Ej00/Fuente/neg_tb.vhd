@@ -9,12 +9,12 @@ end;
 -- Declaracion Cuerpo de Arquitectura
 architecture neg_tb_arq of neg_tb is
   -- Parte Declarativa
-  component neg is
-	  port(
-		  a_i: in std_logic;
-	  	b_o: out std_logic
-	  );
-  end component;
+--  component neg is
+--	  port(
+--		  a_i: in std_logic;
+--	  	b_o: out std_logic
+--	  );
+--  end component;
   
 	signal a_tb: std_logic := '0';
 	signal b_tb: std_logic;

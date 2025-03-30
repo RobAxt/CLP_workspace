@@ -1,0 +1,200 @@
+# Loading project counter2
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project countNb
+# Compile of countNb.vhd failed with 1 errors.
+# Compile of countNb_tb.vhd failed with 1 errors.
+# Compile of reg.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of countNb.vhd failed with 1 errors.
+# Compile of countNb_tb.vhd failed with 1 errors.
+# Compile of reg.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of countNb.vhd failed with 1 errors.
+# Compile of countNb_tb.vhd failed with 1 errors.
+# Compile of reg.vhd was successful.
+# 3 compiles, 2 failed with 2 errors. 
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd failed with 1 errors.
+# Compile of reg.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd failed with 1 errors.
+# Compile of reg.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd failed with 1 errors.
+# Compile of reg.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.countnb_tb
+# vsim -voptargs=+acc work.countnb_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.countnb_tb(countnb_arq)
+# Loading work.countnb(countnb_arq)
+# ** Error: (vsim-3732) /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/countNb_tb.vhd(40): No default binding for component instance 'DUT'.
+#    The following component port is not on the entity:
+#           count_o
+#         Region: /countnb_tb/DUT
+# Loading work.reg(reg_arq)
+# Error loading design
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd failed with 1 errors.
+# Compile of reg.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+vsim -voptargs=+acc work.countnb_tb
+# vsim -voptargs=+acc work.countnb_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.countnb_tb(countnb_arq)
+# Loading work.countnb(countnb_arq)
+# ** Error: (vsim-3732) /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/countNb_tb.vhd(40): No default binding for component instance 'DUT'.
+#    The following component port is not on the entity:
+#           count_o
+#         Region: /countnb_tb/DUT
+# Loading work.reg(reg_arq)
+# Error loading design
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd failed with 1 errors.
+# Compile of reg.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+vsim -voptargs=+acc work.countnb_tb
+# vsim -voptargs=+acc work.countnb_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.countnb_tb(countnb_arq)
+# Loading work.countnb(countnb_arq)
+# ** Error: (vsim-3732) /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/countNb_tb.vhd(40): No default binding for component instance 'DUT'.
+#    The following component port is not on the entity:
+#           count_o
+#         Region: /countnb_tb/DUT
+# Loading work.reg(reg_arq)
+# Error loading design
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd failed with 1 errors.
+# Compile of reg.vhd was successful.
+# 3 compiles, 1 failed with 1 error. 
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.countnb_tb
+# vsim -voptargs=+acc work.countnb_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.countnb_tb(countnb_arq)
+# Loading work.countnb(countnb_arq)
+# ** Error: (vsim-3732) /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/countNb_tb.vhd(48): No default binding for component instance 'DUT'.
+#    The following component port is not on the entity:
+#           count_o
+#         Region: /countnb_tb/DUT
+# Loading work.reg(reg_arq)
+# Error loading design
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.countnb_tb
+# vsim -voptargs=+acc work.countnb_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.countnb_tb(countnb_arq)
+# Loading work.countnb(countnb_arq)
+# Loading work.reg(reg_arq)
+add wave -position insertpoint sim:/countnb_tb/*
+run
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.countnb_tb(countnb_arq)
+# Loading work.countnb(countnb_arq)
+# Loading work.reg(reg_arq)
+run
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.countnb_tb(countnb_arq)
+# Loading work.countnb(countnb_arq)
+# Loading work.reg(reg_arq)
+run
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.countnb_tb(countnb_arq)
+# Loading work.countnb(countnb_arq)
+# Loading work.reg(reg_arq)
+run
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.countnb_tb(countnb_arq)
+# Loading work.countnb(countnb_arq)
+# Loading work.reg(reg_arq)
+run
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+run
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd was successful.
+# Compile of reg.vhd was successful.
+# 3 compiles, 0 failed with no errors. 
+restart
+# Loading work.countnb_tb(countnb_arq)
+# Loading work.countnb(countnb_arq)
+# Loading work.reg(reg_arq)
+run
+restart
+run
+quit -sim
+#  Trace back: window ".#mBar" isn't a top-level window
+#     while executing
+# "::tk::wm deiconify .#mBar"
+#     ("uplevel" body line 1)
+#     invoked from within
+# "uplevel 1 [concat [list ::tk::wm $option $window] $args]"
+#     ("default" arm line 2)
+#     invoked from within
+# "switch -- $option {
+# 			manage {
+# 				if {$::tk_version eq "8.5"} {
+# 					uplevel 1 [concat [list ::tk::wm $option $window] $args]
+# 				} elseif {$::tk_ve..."
+#     (procedure "::Tcl::wm" line 19)
+#     invoked from within
+# "::Tcl::wm deiconify .#mBar"
+#     ("uplevel" body line 1)
+#     invoked from within
+# "uplevel 1 ::Tcl::wm $option $window $args"
+#     (procedure "wm" line 21)
+#     invoked from within
+# "wm deiconify $g"
+#     (procedure "Console::okToClose" line 11)
+#     invoked from within
+# "Console::okToClose ."
+#     (command for "WM_DELETE_WINDOW" window manager protocol) 
+#    <2: ::tkerror {window ".#mBar" isn't a top-level window} 
+#    <1: ::bgerror {window ".#mBar" isn't a top-level window} 
+quit

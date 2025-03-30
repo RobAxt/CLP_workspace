@@ -1,0 +1,114 @@
+m255
+K3
+13
+cModel Technology
+d/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej11/Simulacion
+Ecountnb
+Z0 w1743367224
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 d/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Simulacion
+Z5 8/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/countNb.vhd
+Z6 F/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/countNb.vhd
+l0
+L7
+V9cUPYPUinUlnY5R6nf_:J2
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1743368023.294528
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/countNb.vhd|
+Z10 !s107 /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/countNb.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 fTHS_^@4l^ohZ]aIOcoA01
+!i10b 1
+Acountnb_arq
+R1
+R2
+R3
+DEx4 work 7 countnb 0 22 9cUPYPUinUlnY5R6nf_:J2
+l37
+L20
+VdOG@@LULRI_gLNhjZn04I2
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 oO03YcB`KL;:?m6PU?EzE0
+!i10b 1
+Ecountnb_tb
+Z13 w1743368012
+R1
+R2
+R3
+R4
+Z14 8/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/countNb_tb.vhd
+Z15 F/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/countNb_tb.vhd
+l0
+L8
+VJdCX^XNPN0eDYI4j5D<H41
+R7
+32
+Z16 !s108 1743368023.323570
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/countNb_tb.vhd|
+Z18 !s107 /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/countNb_tb.vhd|
+R11
+R12
+!s100 `?9FSIj?7FoPX=VHO67]i0
+!i10b 1
+Acountnb_arq
+R1
+R2
+R3
+DEx4 work 10 countnb_tb 0 22 JdCX^XNPN0eDYI4j5D<H41
+l33
+L12
+VWI7PPE`2UkShY:1zOo`8C0
+!s100 ^EaB;O5KPbje:aAF:IJX`1
+R7
+32
+R16
+R17
+R18
+R11
+R12
+!i10b 1
+Ereg
+Z19 w1743366365
+R2
+R3
+R4
+Z20 8/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/reg.vhd
+Z21 F/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/reg.vhd
+l0
+L4
+V_6cliY8fG43B_YT4Njell0
+!s100 9`ZKRQZRTmWkE`ma1g2fh1
+R7
+32
+!i10b 1
+Z22 !s108 1743368023.355058
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/reg.vhd|
+Z24 !s107 /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Fuente/reg.vhd|
+R11
+R12
+Areg_arq
+R2
+R3
+Z25 DEx4 work 3 reg 0 22 _6cliY8fG43B_YT4Njell0
+l18
+L17
+Z26 ViZ=e6oUW0YK^alSzG`Z372
+Z27 !s100 P@`@lP?BSJcJDkFEbXDUR0
+R7
+32
+!i10b 1
+R22
+R23
+R24
+R11
+R12

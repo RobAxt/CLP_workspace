@@ -1,0 +1,29 @@
+dom mar 30 18:11:11 -03 2025
+Trace back: window ".#mBar" isn't a top-level window
+    while executing
+"::tk::wm deiconify .#mBar"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel 1 [concat [list ::tk::wm $option $window] $args]"
+    ("default" arm line 2)
+    invoked from within
+"switch -- $option {
+			manage {
+				if {$::tk_version eq "8.5"} {
+					uplevel 1 [concat [list ::tk::wm $option $window] $args]
+				} elseif {$::tk_ve..."
+    (procedure "::Tcl::wm" line 19)
+    invoked from within
+"::Tcl::wm deiconify .#mBar"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel 1 ::Tcl::wm $option $window $args"
+    (procedure "wm" line 21)
+    invoked from within
+"wm deiconify $g"
+    (procedure "Console::okToClose" line 11)
+    invoked from within
+"Console::okToClose ."
+    (command for "WM_DELETE_WINDOW" window manager protocol)
+  <2: ::tkerror {window ".#mBar" isn't a top-level window}
+  <1: ::bgerror {window ".#mBar" isn't a top-level window}

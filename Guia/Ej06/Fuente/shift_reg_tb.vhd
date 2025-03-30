@@ -11,12 +11,12 @@ architecture shift_reg_arq_tb of shift_reg_tb is
   -- Declaracion de componentes
   component shift_reg is
     generic (N: natural := 4);
-    port(
-      ck_i: in std_logic; 
-      rt_i: in std_logic; 
-      ent_i: in std_logic;
-      sal_o: out std_logic
-    );
+      port(
+        ck_i: in std_logic; 
+        rt_i: in std_logic; 
+        ent_i: in std_logic;
+        sal_o: out std_logic
+      );
   end component;
   
   constant N_tb: natural := 4;

@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+d/home/raxt/altera/13.1/modelsim_ase/bin
+Ebarrelshifter
+Z0 w1743361694
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 d/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej08/Simulacion
+Z5 8/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej08/Fuente/barrel_shifter.vhd
+Z6 F/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej08/Fuente/barrel_shifter.vhd
+l0
+L5
+V>Qi0jf_27QYHAT_=3KX731
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1743362417.672788
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej08/Fuente/barrel_shifter.vhd|
+Z10 !s107 /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej08/Fuente/barrel_shifter.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 _PCf>@L^gO5a:aM;QZ@5Q0
+!i10b 1
+Abarrelshifter_arq
+R1
+R2
+R3
+DEx4 work 13 barrelshifter 0 22 >Qi0jf_27QYHAT_=3KX731
+l19
+L17
+VOm;^giW[6]`n<jI>o8]4Y2
+!s100 Nl9o>E0MW>98dd6UJXZGK0
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+Ebarrelshifter_tb
+Z13 w1743362412
+R1
+R2
+R3
+R4
+Z14 8/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej08/Fuente/barrel_shifter_tb.vhd
+Z15 F/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej08/Fuente/barrel_shifter_tb.vhd
+l0
+L5
+VF>iaWiKCm^a5JQZ0l>IjH0
+!s100 fnYogd`12U21iL<n=7mQK1
+R7
+32
+!i10b 1
+Z16 !s108 1743362417.707617
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej08/Fuente/barrel_shifter_tb.vhd|
+Z18 !s107 /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej08/Fuente/barrel_shifter_tb.vhd|
+R11
+R12
+Abarrelshifter_tb_arq
+R1
+R2
+R3
+Z19 DEx4 work 16 barrelshifter_tb 0 22 F>iaWiKCm^a5JQZ0l>IjH0
+l29
+L8
+VLNMljjElDmP``_JF@dZ[=2
+!s100 08LI^RH`DFSKBlNQGd0dF1
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12

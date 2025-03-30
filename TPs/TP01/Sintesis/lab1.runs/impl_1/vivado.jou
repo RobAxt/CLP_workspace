@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:39:19 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Tue Mar 25 20:42:27 2025
+# Process ID: 5113
+# Current directory: /home/raxt/CESE_Workspace/CLP_workspace/TPs/TP01/Sintesis/lab1.runs/impl_1
+# Command line: vivado -log lab1.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source lab1.tcl -notrace
+# Log file: /home/raxt/CESE_Workspace/CLP_workspace/TPs/TP01/Sintesis/lab1.runs/impl_1/lab1.vdi
+# Journal file: /home/raxt/CESE_Workspace/CLP_workspace/TPs/TP01/Sintesis/lab1.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source lab1.tcl -notrace

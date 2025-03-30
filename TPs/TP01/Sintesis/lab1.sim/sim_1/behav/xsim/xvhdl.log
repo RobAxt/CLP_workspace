@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/raxt/CESE_Workspace/CLP_workspace/TPs/TP01/Fuente/lab1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity lab1
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/raxt/CESE_Workspace/CLP_workspace/TPs/TP01/Fuente/lab1_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity lab1_tb

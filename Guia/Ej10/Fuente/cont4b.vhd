@@ -35,6 +35,8 @@ architecture cont4b_arq of cont4b is
 
 begin
 
+  cuenta_o <= q;
+    
   d(0)      <=  ena_i xor q(0);
   andOut(0) <=  ena_i and q(0);
   
@@ -58,6 +60,5 @@ begin
       q_o   => q
     ); 
     
-    cuenta_o <= q;
 end;
       

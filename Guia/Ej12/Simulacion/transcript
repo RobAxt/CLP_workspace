@@ -1,0 +1,249 @@
+# Loading project countNb
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project countNb
+# Compile of countNb.vhd was successful.
+# Compile of countNb_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.countnb_tb
+# vsim -voptargs=+acc work.countnb_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.countnb_tb(countnb_arq)
+# Loading work.countnb(countnb_behavior_arq)
+add wave -position insertpoint sim:/countnb_tb/*
+run
+quit -sim
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project countBCD
+# Compile of countBCD.vhd failed with 1 errors.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of countBCD.vhd failed with 1 errors.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.countbcd_tb
+# vsim -voptargs=+acc work.countbcd_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+add wave -position insertpoint sim:/countbcd_tb/*
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+restart
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+restart
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd failed with 1 errors.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of countBCD.vhd failed with 1 errors.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.countbcd_tb
+# vsim -voptargs=+acc work.countbcd_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.countbcd_tb(countbcd_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+run
+add wave -position insertpoint sim:/countbcd_tb/*
+run

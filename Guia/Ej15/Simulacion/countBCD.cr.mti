@@ -1,0 +1,20 @@
+/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej15/Fuente/countBCD_tb.vhd {1 {vcom -work work -2002 -explicit /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej15/Fuente/countBCD_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity countBCD_tb
+-- Compiling architecture countBCD_arq of countBCD_tb
+-- Loading entity countBCD
+
+} {} {}} /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej15/Fuente/countBCD.vhd {1 {vcom -work work -2002 -explicit /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej15/Fuente/countBCD.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity countBCD
+-- Compiling architecture countBCD_behavior_arq of countBCD
+
+} {} {}}

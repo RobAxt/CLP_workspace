@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+d/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej15/Simulacion
+Egenena
+Z0 w1743885604
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 d/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej17/Simulacion
+Z5 8/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej17/Fuente/genEna.vhd
+Z6 F/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej17/Fuente/genEna.vhd
+l0
+L6
+V5?M<M0;LJzGCZAPP9_<AV3
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1743886126.649374
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej17/Fuente/genEna.vhd|
+Z10 !s107 /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej17/Fuente/genEna.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 5R[oz[UC<JEOfD24V<IZC3
+!i10b 1
+Agenena_arch
+R1
+R2
+R3
+DEx4 work 6 genena 0 22 5?M<M0;LJzGCZAPP9_<AV3
+l21
+L18
+VNHkhZ5ngmV3k[[`LXD1^22
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 lc6WD8z:c3eC8DeDi=Fik2
+!i10b 1
+Egenena_tb
+Z13 w1743885791
+R1
+R2
+R3
+R4
+Z14 8/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej17/Fuente/genEna_tb.vhd
+Z15 F/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej17/Fuente/genEna_tb.vhd
+l0
+L6
+VXPPF8O^`7RU4LJ8f_iU>z0
+!s100 ;>]Glh<;CHW66b[4dAV9E2
+R7
+32
+!i10b 1
+Z16 !s108 1743886126.742632
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej17/Fuente/genEna_tb.vhd|
+Z18 !s107 /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej17/Fuente/genEna_tb.vhd|
+R11
+R12
+Agenena_tb_arch
+R1
+R2
+R3
+DEx4 work 9 genena_tb 0 22 XPPF8O^`7RU4LJ8f_iU>z0
+l28
+L10
+VKlY8Jb39Ii6Moa]d`TM4K1
+!s100 1JHHDg`z2^:P[e6EYY:CB2
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12

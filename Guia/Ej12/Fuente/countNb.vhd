@@ -23,14 +23,14 @@ architecture countNb_arq of countNb is
 
   component reg is
     generic(
-      N		: natural := 4
+      N : natural := 4
     );
     port(
-      clk_i	: in std_logic;								-- clock
-      rst_i	: in std_logic;								-- reset sincronico
-      ena_i	: in std_logic;								-- habilitador
-      d_i		: in std_logic_vector(N-1 downto 0);		-- dato de entrada
-      q_o		: out std_logic_vector(N-1 downto 0)		-- dato de salida
+      clk_i	: in std_logic;                       -- clock
+      rst_i	: in std_logic;                       -- reset sincronico
+      ena_i	: in std_logic;                       -- habilitador
+      d_i		: in std_logic_vector(N-1 downto 0);  -- dato de entrada
+      q_o		: out std_logic_vector(N-1 downto 0)  -- dato de salida
     );
   end component;
 

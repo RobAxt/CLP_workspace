@@ -1,0 +1,100 @@
+# Loading project genEna
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project countBCDLento
+# Compile of countBCD.vhd was successful.
+# Compile of countBCDLento.vhd failed with 1 errors.
+# Compile of countBCDLento_tb.vhd failed with 1 errors.
+# Compile of genEna.vhd was successful.
+# 4 compiles, 2 failed with 2 errors. 
+# Compile of countBCD.vhd was successful.
+# Compile of countBCDLento.vhd failed with 1 errors.
+# Compile of countBCDLento_tb.vhd failed with 1 errors.
+# Compile of genEna.vhd was successful.
+# 4 compiles, 2 failed with 2 errors. 
+# Compile of countBCD.vhd was successful.
+# Compile of countBCDLento.vhd failed with 1 errors.
+# Compile of countBCDLento_tb.vhd failed with 1 errors.
+# Compile of genEna.vhd was successful.
+# 4 compiles, 2 failed with 2 errors. 
+# Compile of countBCD.vhd was successful.
+# Compile of countBCDLento.vhd was successful.
+# Compile of countBCDLento_tb.vhd failed with 1 errors.
+# Compile of genEna.vhd was successful.
+# 4 compiles, 1 failed with 1 error. 
+# Compile of countBCD.vhd was successful.
+# Compile of countBCDLento.vhd was successful.
+# Compile of countBCDLento_tb.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 4 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.countbcdlento_tb
+# vsim -voptargs=+acc work.countbcdlento_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.countbcdlento_tb(countbcdlento_arq)
+# Loading work.countbcdlento(countbcdlento_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+# Loading work.genena(genena_arch)
+add wave -position insertpoint sim:/countbcdlento_tb/*
+run
+# Compile of countBCD.vhd was successful.
+# Compile of countBCDLento.vhd was successful.
+# Compile of countBCDLento_tb.vhd failed with 1 errors.
+# Compile of genEna.vhd was successful.
+# 4 compiles, 1 failed with 1 error. 
+restart
+# Loading work.countbcdlento(countbcdlento_arq)
+# ** Failure: (vsim-3817) Port "ena_i" of entity "countbcdlento" is not in the component being instantiated.
+#    Time: 0 ps  Iteration: 0  Instance: /countbcdlento_tb/DUT File: /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Fuente/countBCDLento.vhd Line: 14
+# Loading work.countbcd(countbcd_behavior_arq)
+# ** Fatal: Bad library format, library not compiled with ALTERA compiler.
+#    Time: 0 ps  Iteration: 0  Instance: /countbcdlento_tb/DUT/countBCD_inst File: /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Fuente/countBCDLento.vhd Line: 53
+# FATAL ERROR while loading design
+# Compile of countBCD.vhd was successful.
+# Compile of countBCDLento.vhd was successful.
+# Compile of countBCDLento_tb.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 4 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.countbcdlento_tb
+# vsim -voptargs=+acc work.countbcdlento_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.countbcdlento_tb(countbcdlento_arq)
+# Loading work.countbcdlento(countbcdlento_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+# Loading work.genena(genena_arch)
+add wave -position insertpoint sim:/countbcdlento_tb/*
+restart
+run
+run -continue
+run -all
+add wave -position insertpoint sim:/countbcdlento_tb/*
+# Compile of countBCD.vhd was successful.
+# Compile of countBCDLento.vhd was successful.
+# Compile of countBCDLento_tb.vhd was successful.
+# Compile of genEna.vhd was successful.
+# 4 compiles, 0 failed with no errors. 
+# Break key hit 
+# Simulation stop requested.
+restart
+# Loading work.countbcdlento_tb(countbcdlento_arq)
+# Loading work.countbcdlento(countbcdlento_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+# Loading work.genena(genena_arch)
+run
+quit -sim
+vsim -voptargs=+acc work.countbcdlento_tb
+# vsim -voptargs=+acc work.countbcdlento_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.countbcdlento_tb(countbcdlento_arq)
+# Loading work.countbcdlento(countbcdlento_arq)
+# Loading work.countbcd(countbcd_behavior_arq)
+# Loading work.genena(genena_arch)
+add wave -position insertpoint sim:/countbcdlento_tb/*
+run

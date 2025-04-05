@@ -1,0 +1,80 @@
+m255
+K3
+13
+cModel Technology
+d/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej12/Simulacion
+Ecountnb
+Z0 w1743869155
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 d/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej13/Simulacion
+Z5 8/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej13/Fuente/countNb.vhd
+Z6 F/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej13/Fuente/countNb.vhd
+l0
+L7
+Vc9C;j:Zaa6E;Y29k8CLC<2
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1743872712.310933
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej13/Fuente/countNb.vhd|
+Z10 !s107 /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej13/Fuente/countNb.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 9Y5iD7DLJWR6BPV[`ca^`3
+!i10b 1
+Acountnb_behavior_arq
+R1
+R2
+R3
+Z13 DEx4 work 7 countnb 0 22 c9C;j:Zaa6E;Y29k8CLC<2
+l24
+L20
+VSCXmIdBT;=f^3?<gnPZC42
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 IoGNa<0BIaK[Wz;4@M]JM0
+!i10b 1
+Ecountnb_tb
+Z14 w1743369566
+R1
+R2
+R3
+R4
+Z15 8/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej13/Fuente/countNb_tb.vhd
+Z16 F/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej13/Fuente/countNb_tb.vhd
+l0
+L8
+VJdCX^XNPN0eDYI4j5D<H41
+!s100 `?9FSIj?7FoPX=VHO67]i0
+R7
+32
+!i10b 1
+Z17 !s108 1743872712.423720
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej13/Fuente/countNb_tb.vhd|
+Z19 !s107 /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej13/Fuente/countNb_tb.vhd|
+R11
+R12
+Acountnb_arq
+R13
+R1
+R2
+R3
+DEx4 work 10 countnb_tb 0 22 JdCX^XNPN0eDYI4j5D<H41
+l33
+L12
+VEYOjmW^dK@]>a9Gj9CVLZ3
+!s100 [[<m6MFL[lm6=^Z]D?S>T2
+R7
+32
+!i10b 1
+R17
+R18
+R19
+R11
+R12

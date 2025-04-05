@@ -1,0 +1,24 @@
+# Loading project countBCD
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project genEna
+# Compile of countBCD.vhd was successful.
+# Compile of countBCD_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project genEna
+# Compile of genEna.vhd was successful.
+# Compile of genEna_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.genena_tb
+# vsim -voptargs=+acc work.genena_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.genena_tb(genena_tb_arch)
+# Loading work.genena(genena_arch)
+add wave -position insertpoint sim:/genena_tb/*
+run
+run
+quit -sim
+quit

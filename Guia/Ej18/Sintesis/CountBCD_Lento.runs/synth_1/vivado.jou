@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:39:19 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Sun Apr  6 17:45:52 2025
+# Process ID: 11862
+# Current directory: /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Sintesis/CountBCD_Lento.runs/synth_1
+# Command line: vivado -log countBCDLento.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source countBCDLento.tcl
+# Log file: /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Sintesis/CountBCD_Lento.runs/synth_1/countBCDLento.vds
+# Journal file: /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Sintesis/CountBCD_Lento.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source countBCDLento.tcl -notrace

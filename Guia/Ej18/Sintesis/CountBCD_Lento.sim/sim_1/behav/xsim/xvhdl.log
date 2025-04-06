@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Fuente/countBCD.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity countBCD
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Fuente/countBCDLento.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity countBCDLento
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Fuente/genEna.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity genEna
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Fuente/countBCDLento_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity countBCDLento_tb

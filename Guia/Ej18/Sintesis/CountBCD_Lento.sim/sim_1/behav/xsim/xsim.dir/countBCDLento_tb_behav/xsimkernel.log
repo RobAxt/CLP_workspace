@@ -1,0 +1,7 @@
+Running: xsim.dir/countBCDLento_tb_behav/xsimk -simmode gui -wdb countBCDLento_tb_behav.wdb -simrunnum 0 -socket 33879
+Design successfully loaded
+Design Loading Memory Usage: 32344 KB (Peak: 32908 KB)
+Design Loading CPU Usage: 30 ms
+Simulation completed
+Simulation Memory Usage: 122280 KB (Peak: 179616 KB)
+Simulation CPU Usage: 50 ms

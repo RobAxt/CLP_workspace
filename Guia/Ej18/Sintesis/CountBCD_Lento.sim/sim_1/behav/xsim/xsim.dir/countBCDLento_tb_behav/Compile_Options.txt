@@ -1,0 +1,1 @@
+-wto "8d4fd95591f4436aa03e063dbe93eb52" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "countBCDLento_tb_behav" "xil_defaultlib.countBCDLento_tb" -log "elaborate.log" 

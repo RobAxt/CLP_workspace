@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:39:19 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Sun Apr  6 17:36:34 2025
+# Process ID: 10714
+# Current directory: /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Sintesis/CountBCD_Lento.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Sintesis/CountBCD_Lento.sim/sim_1/behav/xsim/xsim.dir/countBCDLento_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Sintesis/CountBCD_Lento.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Sintesis/CountBCD_Lento.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/raxt/CESE_Workspace/CLP_workspace/Guia/Ej18/Sintesis/CountBCD_Lento.sim/sim_1/behav/xsim/xsim.dir/countBCDLento_tb_behav/webtalk/xsim_webtalk.tcl -notrace

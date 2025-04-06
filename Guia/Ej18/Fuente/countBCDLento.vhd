@@ -6,7 +6,7 @@ use IEEE.numeric_std.all;
 -- Declaracion de entidad
 entity countBCDLento is
   generic(
-    ciclos : natural := 4
+    ciclos : natural := 125000000
   );
   port (
     clk_i : in std_logic;

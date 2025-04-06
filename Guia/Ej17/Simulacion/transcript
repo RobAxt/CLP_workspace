@@ -98,3 +98,5 @@ vsim -voptargs=+acc work.countbcdlento_tb
 # Loading work.genena(genena_arch)
 add wave -position insertpoint sim:/countbcdlento_tb/*
 run
+quit -sim
+quit

@@ -1,0 +1,77 @@
+m255
+K3
+13
+cModel Technology
+d/home/raxt/altera/13.1/modelsim_ase/bin
+Etransmitter
+Z0 w1744069552
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 d/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Simulacion/Transmitter
+Z5 8/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd
+Z6 F/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd
+l0
+L5
+VjV3U:cSdLQ4m;^^^GnAMa2
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1744071001.677611
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd|
+Z10 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 aMI]DRPXfZ1W<RC<AZ9<41
+!i10b 1
+Abehavioral
+R1
+R2
+R3
+DEx4 work 11 transmitter 0 22 jV3U:cSdLQ4m;^^^GnAMa2
+l40
+L18
+VU2MW??;34G5hg>]kZceVi1
+!s100 5BIgjXK6A?Z4L<Deo@9Fm0
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+Etransmitter_tb
+Z13 w1744070996
+R2
+R3
+R4
+Z14 8/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter_tb.vhd
+Z15 F/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter_tb.vhd
+l0
+L4
+V]cc]6QgLFE3H2zhW1@f[d2
+!s100 ]E51Slg0N_hOBBkQmTk:A1
+R7
+32
+!i10b 1
+Z16 !s108 1744071001.728735
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter_tb.vhd|
+Z18 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter_tb.vhd|
+R11
+R12
+Atransmitter_tb_arq
+R2
+R3
+Z19 DEx4 work 14 transmitter_tb 0 22 ]cc]6QgLFE3H2zhW1@f[d2
+l27
+L7
+VFh9aE6K3Y1ozIjB@792lB3
+!s100 zd3IQU1ZB[f0kkUZ_5`az0
+R7
+32
+!i10b 1
+R16
+R17
+R18
+R11
+R12

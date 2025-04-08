@@ -1,0 +1,457 @@
+# Loading project countBCDLento
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project Transmitter
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.transmitter_tb
+# vsim -voptargs=+acc work.transmitter_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading ieee.numeric_std(body)
+# Loading work.transmitter(behavioral)
+add wave -position insertpoint sim:/transmitter_tb/*
+run
+add wave -position insertpoint sim:/transmitter_tb/trans_inst/*
+restart
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+restart
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+restart
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# ** Fatal: (vsim-3421) Value 6 for bit_count is out of range 0 to 5.
+#    Time: 30 ns  Iteration: 0  Process: /transmitter_tb/trans_inst/line__23 File: /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd
+# Fatal error in Process line__23 at /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd line 36
+# 
+# HDL call sequence:
+# Stopped at /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd 36 Process line__23
+# 
+restart
+restart
+run
+# ** Fatal: (vsim-3421) Value 6 for bit_count is out of range 0 to 5.
+#    Time: 30 ns  Iteration: 0  Process: /transmitter_tb/trans_inst/line__23 File: /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd
+# Fatal error in Process line__23 at /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd line 36
+# 
+# HDL call sequence:
+# Stopped at /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd 36 Process line__23
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd 36 Process line__23
+# 
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+restart
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+add wave -position insertpoint sim:/transmitter_tb/*
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+add wave -position insertpoint sim:/transmitter_tb/*
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+quit -sim
+# Compile of transmitter_tb.vhd was successful.
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.transmitter_tb
+# vsim -voptargs=+acc work.transmitter_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading ieee.numeric_std(body)
+# Loading work.transmitter(behavioral)
+add wave -position insertpoint sim:/transmitter_tb/*
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd failed with 1 errors.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd failed with 1 errors.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of transmitter.vhd failed with 1 errors.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+# Compile of transmitter.vhd failed with 1 errors.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+# Compile of transmitter.vhd was successful.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# Loading work.transmitter(behavioral)
+run
+add wave -position insertpoint sim:/transmitter_tb/trans_inst/*
+restart
+run
+quit -sim
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project crc3
+# Compile of crc3_tb.vhd failed with 1 errors.
+# Compile of crc3_tb.vhd was successful.
+# Compile of crc3_tb.vhd was successful.
+# Compile of crc3_tb.vhd was successful.
+vsim -voptargs=+acc work.tb_crc3_comparacion
+# vsim -voptargs=+acc work.tb_crc3_comparacion 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb_crc3_comparacion(sim)
+run
+# ** Note: Inicio del testbench de comparación CRC3
+#    Time: 0 ps  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1101 | CRC_LFSR: 000 | CRC_División: 011
+#    Time: 10 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 0001 | CRC_LFSR: 101 | CRC_División: 101
+#    Time: 20 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1010 | CRC_LFSR: 100 | CRC_División: 101
+#    Time: 30 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1111 | CRC_LFSR: 111 | CRC_División: 010
+#    Time: 40 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Fin del testbench
+#    Time: 40 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# Compile of crc3_tb.vhd was successful.
+restart
+# Loading work.tb_crc3_comparacion(sim)
+run
+# ** Note: Inicio del testbench de comparacion CRC3
+#    Time: 0 ps  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1101 | CRC_LFSR: 000 | CRC_Division: 011
+#    Time: 10 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 0001 | CRC_LFSR: 101 | CRC_Division: 101
+#    Time: 20 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1010 | CRC_LFSR: 100 | CRC_Division: 101
+#    Time: 30 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1111 | CRC_LFSR: 111 | CRC_Division: 010
+#    Time: 40 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Fin del testbench
+#    Time: 40 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# Compile of crc3_tb.vhd was successful.
+restart
+# Loading work.tb_crc3_comparacion(sim)
+run
+# ** Note: Inicio del testbench de comparacion CRC3
+#    Time: 0 ps  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: CASO DESTACADO - Entrada: 1101 | CRC_LFSR: 000 | CRC_Division: 011
+#    Time: 10 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 0001 | CRC_LFSR: 101 | CRC_Division: 101
+#    Time: 20 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1010 | CRC_LFSR: 100 | CRC_Division: 101
+#    Time: 30 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1111 | CRC_LFSR: 111 | CRC_Division: 010
+#    Time: 40 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Fin del testbench
+#    Time: 40 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# Compile of crc3_tb.vhd was successful.
+restart
+# Loading work.tb_crc3_comparacion(sim)
+run
+# ** Note: Inicio del testbench de comparacion CRC3
+#    Time: 0 ps  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: CASO DESTACADO - Entrada: 1101 | CRC_LFSR: 000 | CRC_Division: 000
+#    Time: 10 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 0001 | CRC_LFSR: 101 | CRC_Division: 100
+#    Time: 20 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1010 | CRC_LFSR: 100 | CRC_Division: 111
+#    Time: 30 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1111 | CRC_LFSR: 111 | CRC_Division: 010
+#    Time: 40 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Fin del testbench
+#    Time: 40 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# Compile of crc3_tb.vhd was successful.
+restart
+# Loading work.tb_crc3_comparacion(sim)
+run
+# ** Note: Inicio del testbench de comparacion CRC3
+#    Time: 0 ps  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: CASO DESTACADO - Entrada: 1101 | CRC_LFSR: 001 | CRC_Division: 011
+#    Time: 10 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 0001 | CRC_LFSR: 011 | CRC_Division: 101
+#    Time: 20 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1010 | CRC_LFSR: 011 | CRC_Division: 101
+#    Time: 30 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1111 | CRC_LFSR: 111 | CRC_Division: 010
+#    Time: 40 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Fin del testbench
+#    Time: 40 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# Compile of crc3_tb.vhd was successful.
+restart
+# Loading work.tb_crc3_comparacion(sim)
+run
+# ** Note: Inicio del testbench de comparacion CRC3 (0 a 15)
+#    Time: 0 ps  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 0000 | CRC_LFSR: 000 | CRC_Division: 000
+#    Time: 0 ps  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 0001 | CRC_LFSR: 011 | CRC_Division: 101
+#    Time: 10 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 0010 | CRC_LFSR: 110 | CRC_Division: 100
+#    Time: 20 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 0011 | CRC_LFSR: 101 | CRC_Division: 001
+#    Time: 30 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 0100 | CRC_LFSR: 111 | CRC_Division: 010
+#    Time: 40 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 0101 | CRC_LFSR: 100 | CRC_Division: 111
+#    Time: 50 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 0110 | CRC_LFSR: 001 | CRC_Division: 110
+#    Time: 60 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 0111 | CRC_LFSR: 010 | CRC_Division: 011
+#    Time: 70 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1000 | CRC_LFSR: 101 | CRC_Division: 001
+#    Time: 80 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1001 | CRC_LFSR: 110 | CRC_Division: 100
+#    Time: 90 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1010 | CRC_LFSR: 011 | CRC_Division: 101
+#    Time: 100 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1011 | CRC_LFSR: 000 | CRC_Division: 000
+#    Time: 110 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1100 | CRC_LFSR: 010 | CRC_Division: 011
+#    Time: 120 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1101 | CRC_LFSR: 001 | CRC_Division: 110
+#    Time: 130 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1110 | CRC_LFSR: 100 | CRC_Division: 111
+#    Time: 140 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Entrada: 1111 | CRC_LFSR: 111 | CRC_Division: 010
+#    Time: 150 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+# ** Note: Fin del testbench
+#    Time: 160 ns  Iteration: 0  Instance: /tb_crc3_comparacion
+quit -sim
+# reading /home/raxt/altera/13.1/modelsim_ase/linux/../modelsim.ini
+# Loading project transmitter
+# Compile of transmitter.vhd failed with 1 errors.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+vsim -voptargs=+acc work.transmitter_tb
+# vsim -voptargs=+acc work.transmitter_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# ** Error: (vsim-3173) Entity '/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Simulacion/Transmitter/work.transmitter' has no architecture.
+# Load interrupted
+# Error loading design
+add wave -position insertpoint vsim:/transmitter_tb/*
+run
+# No Design Loaded!
+# Compile of transmitter.vhd failed with 1 errors.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+quit -sim
+# Compile of transmitter_tb.vhd was successful.
+# Compile of transmitter.vhd failed with 1 errors.
+# Compile of transmitter_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error. 
+vsim -voptargs=+acc work.transmitter_tb
+# vsim -voptargs=+acc work.transmitter_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.transmitter_tb(transmitter_tb_arq)
+# ** Error: (vsim-3173) Entity '/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Simulacion/Transmitter/work.transmitter' has no architecture.
+# Load interrupted
+# Error loading design
+add wave -position insertpoint vsim:/transmitter_tb/*
+quit -sim

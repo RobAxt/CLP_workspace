@@ -1,0 +1,67 @@
+# Loading project Transmitter_impl
+# Compile of genEna.vhd was successful.
+# Compile of meta_harden.vhd was successful.
+# Compile of transmitter_impl.vhd was successful.
+# Compile of transmitter_impl_tb.vhd was successful.
+# Compile of transmitter.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.transmitter_impl_tb
+# vsim -voptargs=+acc work.transmitter_impl_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.transmitter_impl_tb(simulation)
+# Loading work.transmitter_impl(structural)
+# Loading work.meta_harden(meta_harden_arq)
+# Loading ieee.numeric_std(body)
+# Loading work.transmitter(behavioral)
+# Loading work.genena(genena_arch)
+run
+add wave -position insertpoint sim:/transmitter_impl_tb/*
+restart
+run
+run -continue
+run -all
+# Break key hit 
+# Simulation stop requested.
+restart
+run
+restart
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of genEna.vhd was successful.
+# Compile of meta_harden.vhd was successful.
+# Compile of transmitter_impl.vhd was successful.
+# Compile of transmitter_impl_tb.vhd was successful.
+# Compile of transmitter.vhd was successful.
+# 5 compiles, 0 failed with no errors. 
+restart
+# Loading work.transmitter_impl_tb(simulation)
+# Loading work.transmitter_impl(structural)
+# Loading work.meta_harden(meta_harden_arq)
+# Loading work.transmitter(behavioral)
+# Loading work.genena(genena_arch)
+run
+run
+run
+run
+quit -sim

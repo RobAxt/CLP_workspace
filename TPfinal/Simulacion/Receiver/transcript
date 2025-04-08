@@ -721,3 +721,4 @@ restart
 # Loading work.transmitter(behavioral)
 # Loading work.receiver(behavioral)
 run
+quit -sim

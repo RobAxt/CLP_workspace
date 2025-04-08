@@ -24,7 +24,7 @@ architecture behavioral of transmitter is
   signal shift_reg : std_logic_vector(FRAME_SIZE-1 downto 0);
   signal bit_count : natural range 0 to FRAME_SIZE := 0;
 
-  --Funcion estilo LFSR (procesa de MSB a LSB)
+  --Funcion CRC3 estilo LFSR (procesa de MSB a LSB)
     function crc3_lfsr(data : std_logic_vector(3 downto 0)) return std_logic_vector is
         variable shift_reg : std_logic_vector(2 downto 0) := (others => '0');
         variable d : std_logic;

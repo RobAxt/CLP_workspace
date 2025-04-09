@@ -17,7 +17,7 @@ end transmitter_impl;
 
 architecture structural of transmitter_impl is
 
-  -- Sección de componentes
+  -- Declaracion de componentes
   component transmitter is
     generic(
       DATA_SIZE : natural := 4  -- Tamaño de los datos
@@ -51,7 +51,7 @@ architecture structural of transmitter_impl is
     );
   end component;
 
-  -- Sección de señales internas
+  -- Declaracion de senales internas
   signal rst_harden  : std_logic;
   signal ena_gen     : std_logic;
   signal ena_tx      : std_logic;

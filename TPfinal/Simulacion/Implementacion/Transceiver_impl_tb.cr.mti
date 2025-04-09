@@ -1,0 +1,69 @@
+/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl.vhd {1 {vcom -work work -2002 -explicit /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity transceriver_impl
+-- Compiling architecture structural of transceriver_impl
+
+} {} {}} /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl_tb.vhd {1 {vcom -work work -2002 -explicit /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity transceriver_impl_tb
+-- Compiling architecture simulation of transceriver_impl_tb
+-- Loading entity transceriver_impl
+
+} {} {}} /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Receptor/receiver.vhd {1 {vcom -work work -2002 -explicit /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Receptor/receiver.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity receiver
+-- Compiling architecture behavioral of receiver
+
+} {} {}} /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/meta_harden.vhd {1 {vcom -work work -2002 -explicit /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/meta_harden.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity meta_harden
+-- Compiling architecture meta_harden_arq of meta_harden
+
+} {} {}} /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd {1 {vcom -work work -2002 -explicit /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity transmitter
+-- Compiling architecture behavioral of transmitter
+
+} {} {}} /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transmitter_impl.vhd {1 {vcom -work work -2002 -explicit /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transmitter_impl.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity transmitter_impl
+-- Compiling architecture structural of transmitter_impl
+
+} {} {}} /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/receiver_impl.vhd {1 {vcom -work work -2002 -explicit /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/receiver_impl.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity receiver_impl
+-- Compiling architecture structural of receiver_impl
+
+} {} {}} /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/genEna.vhd {1 {vcom -work work -2002 -explicit /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/genEna.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity genEna
+-- Compiling architecture genEna_arch of genEna
+
+} {} {}}

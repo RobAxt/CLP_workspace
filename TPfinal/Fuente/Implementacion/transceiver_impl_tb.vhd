@@ -8,7 +8,7 @@ architecture simulation of transceriver_impl_tb is
 
   -- Definición de constantes de parametrización
   constant DATA_SIZE : natural := 4;
-  constant CICLOS    : natural := 125E3;  -- Overriding el valor de CICLOS para la simulación
+  constant CICLOS    : natural := 125;  -- Overriding el valor de CICLOS para la simulación
 
   -- Señales de conexión con la DUT (Device Under Test)
   signal clk_tb    : std_logic := '0';
@@ -22,7 +22,7 @@ architecture simulation of transceriver_impl_tb is
 begin
 
   clk_tb <= not clk_tb after 4 ns;
-  rst_tb <= '0' after 1 ms;
+  rst_tb <= '0' after 1 us;
 
   dut: entity work.transceriver_impl
     generic map(

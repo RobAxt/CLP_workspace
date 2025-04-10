@@ -16,8 +16,8 @@ entity transmitter is
 end transmitter;
 
 architecture behavioral of transmitter is
-  constant PREAMBLE_SIZE : natural := 1;
-  constant PREAMBLE : std_logic_vector(PREAMBLE_SIZE-1 downto 0) := std_logic_vector(to_unsigned(0,PREAMBLE_SIZE));
+  constant PREAMBLE_SIZE : natural := 3;
+  constant PREAMBLE : std_logic_vector(PREAMBLE_SIZE-1 downto 0) := std_logic_vector(to_unsigned(2,PREAMBLE_SIZE));
   constant IDLE : std_logic := '1';
   constant CRC_SIZE : natural := 3;
   constant FRAME_SIZE : natural := PREAMBLE_SIZE + DATA_SIZE + CRC_SIZE;  -- preamble + data + crc-3

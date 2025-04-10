@@ -91,18 +91,18 @@ begin
     rst_tb <= '0';
 
     -- Primer dato: 1010
-    data_in_tb <= "1110";
+    data_in_tb <= "1010";
     
     -- Se transmite y recibe correctamente
-    for i in 0 to 8 loop
+    for i in 0 to 10 loop
       wait for CLK_PERIOD;
       serial_in_tb <= serial_out_tb;
     end loop;
 
     -- Se corrompe transmision
-    for i in 0 to 8 loop
+    for i in 0 to 10 loop
       wait for CLK_PERIOD;
-      if i = 2 or i = 3 or i = 4 or i = 5  then
+      if i = 4 or i = 5 or i = 6 or i = 7  then
         serial_in_tb <= '0';  --  bits alterado
       else
         serial_in_tb <= serial_out_tb;
@@ -113,23 +113,31 @@ begin
     data_in_tb <= "0101"; 
 
     -- Se transmite y recibe correctamente
-    for i in 0 to 8 loop
+    for i in 0 to 10 loop
       wait for CLK_PERIOD;
       serial_in_tb <= serial_out_tb;
      end loop;
 
     -- Se corrompe transmision
-    for i in 0 to 8 loop
+    for i in 0 to 10 loop
       wait for CLK_PERIOD;
-      if i = 2 or i = 3 or i = 4 or i = 5  then
+      if i = 4 or i = 5 or i = 6 or i = 7  then
         serial_in_tb <= '0';  --  bits alterado
       else
         serial_in_tb <= serial_out_tb;
       end if;
     end loop; 
 
+    for i in 0 to 10 loop
+      wait for CLK_PERIOD;
+      serial_in_tb <= serial_out_tb;
+     end loop;
+     for i in 0 to 10 loop
+      wait for CLK_PERIOD;
+      serial_in_tb <= serial_out_tb;
+     end loop;
     -- Se mantiene en idle la recepcion
-    for i in 0 to 8 loop
+    for i in 0 to 10 loop
      wait for CLK_PERIOD;
      serial_in_tb <= '1';
     end loop;

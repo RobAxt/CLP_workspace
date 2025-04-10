@@ -2,7 +2,7 @@ m255
 K3
 13
 cModel Technology
-d/home/raxt/altera/13.1/modelsim_ase/bin
+d/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Simulacion/Transmitter
 Egenena
 Z0 w1744117149
 Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
@@ -16,7 +16,7 @@ L6
 V5?M<M0;LJzGCZAPP9_<AV3
 Z7 OV;C;10.1d;51
 32
-Z8 !s108 1744164732.653511
+Z8 !s108 1744243766.306909
 Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/genEna.vhd|
 Z10 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/genEna.vhd|
 Z11 o-work work -2002 -explicit -O0
@@ -52,7 +52,7 @@ L27
 VR0W[LEIGHNPIJ`C;IG[`[0
 R7
 32
-Z16 !s108 1744164732.716591
+Z16 !s108 1744243766.371235
 Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/meta_harden.vhd|
 Z18 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/meta_harden.vhd|
 R11
@@ -76,7 +76,7 @@ R12
 !s100 1nd;4cb:<o^0W0CmMkGQ80
 !i10b 1
 Ereceiver
-Z19 w1744081808
+Z19 w1744240499
 R1
 R2
 R3
@@ -86,47 +86,47 @@ Z21 F/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Receptor/receiver.vh
 l0
 L5
 V;MzoXl8I9VdV9TYed9j0N0
+!s100 8WDX5CAk9D^JlcD4lDo@c2
 R7
 32
-Z22 !s108 1744164732.947288
+!i10b 1
+Z22 !s108 1744243766.762990
 Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Receptor/receiver.vhd|
 Z24 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Receptor/receiver.vhd|
 R11
 R12
-!s100 8WDX5CAk9D^JlcD4lDo@c2
-!i10b 1
 Abehavioral
 R1
 R2
 R3
-DEx4 work 8 receiver 0 22 ;MzoXl8I9VdV9TYed9j0N0
-l43
+Z25 DEx4 work 8 receiver 0 22 ;MzoXl8I9VdV9TYed9j0N0
+l48
 L19
-Vl9A1=3ggkiQ7_3I3W[HL23
-!s100 ^UFBD>a;TS>X_AUZ;L66W3
+Z26 V]Lj6^e1SkaOShzZYjG8FZ0
+Z27 !s100 RcST0P7@U5186HhiF`Bno3
 R7
 32
+!i10b 1
 R22
 R23
 R24
 R11
 R12
-!i10b 1
 Ereceiver_impl
-Z25 w1744159883
+Z28 w1744159883
 R2
 R3
 R4
-Z26 8/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/receiver_impl.vhd
-Z27 F/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/receiver_impl.vhd
+Z29 8/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/receiver_impl.vhd
+Z30 F/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/receiver_impl.vhd
 l0
 L4
 Vga63X2XoZAPRDbOSAHNh90
 R7
 32
-Z28 !s108 1744164732.760482
-Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/receiver_impl.vhd|
-Z30 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/receiver_impl.vhd|
+Z31 !s108 1744243766.417378
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/receiver_impl.vhd|
+Z33 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/receiver_impl.vhd|
 R11
 R12
 !s100 KAV=P;<_bfbW?zKoEDWg<0
@@ -140,28 +140,28 @@ L19
 VB>Beif4hE^ezhY7oPc5L33
 R7
 32
-R28
-R29
-R30
+R31
+R32
+R33
 R11
 R12
 !s100 DIE79=1M5K5ADdjZi?gWW1
 !i10b 1
 Etransceriver_impl
-Z31 w1744162630
+Z34 w1744162630
 R2
 R3
 R4
-Z32 8/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl.vhd
-Z33 F/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl.vhd
+Z35 8/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl.vhd
+Z36 F/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl.vhd
 l0
 L4
 VFFCM3lh8iFGTW=4geGQJA1
 R7
 32
-Z34 !s108 1744164732.807447
-Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl.vhd|
-Z36 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl.vhd|
+Z37 !s108 1744243766.471418
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl.vhd|
+Z39 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl.vhd|
 R11
 R12
 !s100 @eg?@GiGh3G^T]6>bQCnM2
@@ -169,92 +169,92 @@ R12
 Astructural
 R2
 R3
-Z37 DEx4 work 17 transceriver_impl 0 22 FFCM3lh8iFGTW=4geGQJA1
+Z40 DEx4 work 17 transceriver_impl 0 22 FFCM3lh8iFGTW=4geGQJA1
 l52
 L21
 Vi>PFL_>JL6Rz`7i=0DCcO3
 R7
 32
-R34
-R35
-R36
+R37
+R38
+R39
 R11
 R12
 !s100 3h5eFoXSII69XKPB`[a9I0
 !i10b 1
 Etransceriver_impl_tb
-Z38 w1744164729
+Z41 w1744243764
 R2
 R3
 R4
-Z39 8/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl_tb.vhd
-Z40 F/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl_tb.vhd
+Z42 8/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl_tb.vhd
+Z43 F/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl_tb.vhd
 l0
 L4
 VV[_XBZONg0>]3lDa>L]m=2
 R7
 32
-Z41 !s108 1744164732.851603
-Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl_tb.vhd|
-Z43 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl_tb.vhd|
+Z44 !s108 1744243766.533718
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl_tb.vhd|
+Z46 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transceiver_impl_tb.vhd|
 R11
 R12
 !s100 Lak^Bn@_I^QJzdH0Nl9hX2
 !i10b 1
 Asimulation
-R37
+R40
 R2
 R3
 DEx4 work 20 transceriver_impl_tb 0 22 V[_XBZONg0>]3lDa>L]m=2
 l22
 L7
-V=SWGCB5Mh@nRn_5F@gQ4=0
+VkCVYJ:SYCCW7zfYcm9Y<^3
 R7
 32
-R41
-R42
-R43
+R44
+R45
+R46
 R11
 R12
-!s100 mk7V6Gz1adhkZ?jaz36Bh3
+!s100 NmT]N3IKCCe=X<h4ASjVe3
 !i10b 1
 Etransmitter
-Z44 w1744081465
+Z47 w1744239525
 R1
 R2
 R3
 R4
-Z45 8/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd
-Z46 F/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd
+Z48 8/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd
+Z49 F/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd
 l0
 L5
 VjV3U:cSdLQ4m;^^^GnAMa2
-!s100 aMI]DRPXfZ1W<RC<AZ9<41
 R7
 32
-!i10b 1
-Z47 !s108 1744164733.007778
-Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd|
-Z49 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd|
+Z50 !s108 1744243766.682782
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd|
+Z52 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd|
 R11
 R12
+!s100 aMI]DRPXfZ1W<RC<AZ9<41
+!i10b 1
 Abehavioral
 R1
 R2
 R3
-Z50 DEx4 work 11 transmitter 0 22 jV3U:cSdLQ4m;^^^GnAMa2
+DEx4 work 11 transmitter 0 22 jV3U:cSdLQ4m;^^^GnAMa2
 l40
 L18
-Z51 VU2MW??;34G5hg>]kZceVi1
-Z52 !s100 5BIgjXK6A?Z4L<Deo@9Fm0
+V>=nUPRn^^3TijJ8]J4J8M1
+!s100 c2e_cSH_fXPZBN5DgkNJT3
 R7
 32
-!i10b 1
-R47
-R48
-R49
+R50
+R51
+R52
 R11
 R12
+!i10b 1
 Etransmitter_impl
 Z53 w1744158510
 R2
@@ -267,7 +267,7 @@ L4
 VKM1_b71o3Q>]j8Ti86V=;2
 R7
 32
-Z56 !s108 1744164732.895910
+Z56 !s108 1744243766.598527
 Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transmitter_impl.vhd|
 Z58 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transmitter_impl.vhd|
 R11
@@ -277,7 +277,7 @@ R12
 Astructural
 R2
 R3
-Z59 DEx4 work 16 transmitter_impl 0 22 KM1_b71o3Q>]j8Ti86V=;2
+DEx4 work 16 transmitter_impl 0 22 KM1_b71o3Q>]j8Ti86V=;2
 l61
 L18
 V3zl0??:=dAM^z4GTg68Aj2
@@ -289,40 +289,4 @@ R58
 R11
 R12
 !s100 Xk5UT8;U9Voa`YE[aUHO93
-!i10b 1
-Etransmitter_impl_tb
-Z60 w1744153125
-R2
-R3
-R4
-Z61 8/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transmitter_impl_tb.vhd
-Z62 F/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transmitter_impl_tb.vhd
-l0
-L4
-VlaBk[AMikK;SlTnneoDnb1
-R7
-32
-Z63 !s108 1744153130.499400
-Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transmitter_impl_tb.vhd|
-Z65 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Implementacion/transmitter_impl_tb.vhd|
-R11
-R12
-!s100 78zef[z56n:jj^8Dc5RZf3
-!i10b 1
-Asimulation
-R59
-R2
-R3
-DEx4 work 19 transmitter_impl_tb 0 22 laBk[AMikK;SlTnneoDnb1
-l20
-L7
-V<Ee0bW_YgaBUH<iiBF[G^1
-R7
-32
-R63
-R64
-R65
-R11
-R12
-!s100 W4H0i7a0IiF86:5=`n14B3
 !i10b 1

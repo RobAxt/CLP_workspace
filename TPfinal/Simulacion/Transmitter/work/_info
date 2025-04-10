@@ -2,9 +2,9 @@ m255
 K3
 13
 cModel Technology
-d/home/raxt/altera/13.1/modelsim_ase/bin
+d/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Simulacion/Receiver
 Etransmitter
-Z0 w1744069552
+Z0 w1744239525
 Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
 Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
 Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
@@ -16,7 +16,7 @@ L5
 VjV3U:cSdLQ4m;^^^GnAMa2
 Z7 OV;C;10.1d;51
 32
-Z8 !s108 1744071001.677611
+Z8 !s108 1744242938.226108
 Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd|
 Z10 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd|
 Z11 o-work work -2002 -explicit -O0
@@ -30,8 +30,8 @@ R3
 DEx4 work 11 transmitter 0 22 jV3U:cSdLQ4m;^^^GnAMa2
 l40
 L18
-VU2MW??;34G5hg>]kZceVi1
-!s100 5BIgjXK6A?Z4L<Deo@9Fm0
+V>=nUPRn^^3TijJ8]J4J8M1
+!s100 c2e_cSH_fXPZBN5DgkNJT3
 R7
 32
 R8
@@ -41,7 +41,7 @@ R11
 R12
 !i10b 1
 Etransmitter_tb
-Z13 w1744070996
+Z13 w1744242838
 R2
 R3
 R4
@@ -54,7 +54,7 @@ V]cc]6QgLFE3H2zhW1@f[d2
 R7
 32
 !i10b 1
-Z16 !s108 1744071001.728735
+Z16 !s108 1744242938.286247
 Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter_tb.vhd|
 Z18 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter_tb.vhd|
 R11
@@ -65,8 +65,8 @@ R3
 Z19 DEx4 work 14 transmitter_tb 0 22 ]cc]6QgLFE3H2zhW1@f[d2
 l27
 L7
-VFh9aE6K3Y1ozIjB@792lB3
-!s100 zd3IQU1ZB[f0kkUZ_5`az0
+Va=iiOBDPDk]zGUSZ<C:5D2
+!s100 Pl?hg2c]`6dfQ5jjEUE353
 R7
 32
 !i10b 1

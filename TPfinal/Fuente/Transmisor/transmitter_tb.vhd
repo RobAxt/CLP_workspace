@@ -22,7 +22,7 @@ architecture transmitter_tb_arq of transmitter_tb is
   signal clk_tb         : std_logic := '0';
   signal rst_tb         : std_logic := '1';
   signal ena_tb         : std_logic := '1';
-  signal data_tb        : std_logic_vector (DATA_SIZE_tb-1 downto 0) := "0010";
+  signal data_tb        : std_logic_vector (DATA_SIZE_tb-1 downto 0) := "0101";
   signal serial_tb      : std_logic;
 begin
   clk_tb <= not clk_tb after 10 ns;

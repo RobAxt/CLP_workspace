@@ -4,7 +4,7 @@ K3
 cModel Technology
 d/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Simulacion/Implementacion
 Ereceiver
-Z0 w1744240499
+Z0 w1744637837
 Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
 Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
 Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
@@ -16,7 +16,7 @@ L5
 V;MzoXl8I9VdV9TYed9j0N0
 Z7 OV;C;10.1d;51
 32
-Z8 !s108 1744241168.854948
+Z8 !s108 1744637908.955082
 Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Receptor/receiver.vhd|
 Z10 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Receptor/receiver.vhd|
 Z11 o-work work -2002 -explicit -O0
@@ -30,7 +30,7 @@ R3
 DEx4 work 8 receiver 0 22 ;MzoXl8I9VdV9TYed9j0N0
 l48
 L19
-V]Lj6^e1SkaOShzZYjG8FZ0
+VjS9eNGNO6D?6kRW]5I1X61
 R7
 32
 R8
@@ -38,7 +38,7 @@ R9
 R10
 R11
 R12
-!s100 RcST0P7@U5186HhiF`Bno3
+!s100 mL^R_]iV?nlgEkl9@SEYE3
 !i10b 1
 Etransceiver_tb
 Z13 w1744241166
@@ -53,7 +53,7 @@ L5
 Vd4[I0;<5KABG2_AYNGF[I3
 R7
 32
-Z16 !s108 1744241168.915482
+Z16 !s108 1744637909.055671
 Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Receptor/transceiver_tb.vhd|
 Z18 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Receptor/transceiver_tb.vhd|
 R11
@@ -68,6 +68,7 @@ DEx4 work 14 transceiver_tb 0 22 d4[I0;<5KABG2_AYNGF[I3
 l52
 L8
 V<@?D49??SIRj85cNRojLo3
+!s100 c:3LHi[;KGWHAgD6MFI@63
 R7
 32
 R16
@@ -75,7 +76,6 @@ R17
 R18
 R11
 R12
-!s100 c:3LHi[;KGWHAgD6MFI@63
 !i10b 1
 Etransmitter
 Z19 w1744239525
@@ -92,7 +92,7 @@ VjV3U:cSdLQ4m;^^^GnAMa2
 R7
 32
 !i10b 1
-Z22 !s108 1744241168.972338
+Z22 !s108 1744637909.120880
 Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|/home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd|
 Z24 !s107 /home/raxt/CESE_Workspace/CLP_workspace/TPfinal/Fuente/Transmisor/transmitter.vhd|
 R11

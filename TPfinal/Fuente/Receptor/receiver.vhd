@@ -29,7 +29,7 @@ architecture behavioral of receiver is
   
   signal preamble_reg : std_logic_vector(PREAMBLE_SIZE-1 downto 0) := (others => '1');
   signal payload_reg  : std_logic_vector(PAYLOAD_SIZE-1 downto 0) := (others => '0');
-  signal bit_count    : integer range 0 to PAYLOAD_SIZE := 0;
+  signal bit_count    : natural range 0 to PAYLOAD_SIZE := 0;
 
   -- Función CRC3 usando LFSR (procesamiento de MSB a LSB)
   function crc3_lfsr(data : std_logic_vector(3 downto 0)) return std_logic_vector is
